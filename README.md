@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif -->
 
-![header image](/assets/header.png)
+![header image](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 <br />
 
