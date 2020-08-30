@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 <!-- https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif -->
 
-<div align="center">
-    <img width="100%" alt="GIF" src="./assets/header.png" />
-</div>
+![header image](/assets/header.png)
 
 <br />
 
