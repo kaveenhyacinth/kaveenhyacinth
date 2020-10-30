@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br />
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm **Kaveen Hyacinth De Alwis**, a **Software Engineering student** ( last year undergraduate 🌍 ) and a **Personal Brand Consultant** 🚀 from Colombo, Sri Lanka.
+I'm **Kaveen Hyacinth De Alwis**, a **Software Developer** ( last year undergraduate 🌍 ), **IEEEian** and a **Writer** 🚀 from Colombo, Sri Lanka.
 
 
 ### **A Deep Dive**
@@ -54,9 +54,9 @@ I'm **Kaveen Hyacinth De Alwis**, a **Software Engineering student** ( last year
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 ![Kaveens's github stats](https://github-readme-stats.vercel.app/api?username=kaveenhyacinth&show_icons=true)
