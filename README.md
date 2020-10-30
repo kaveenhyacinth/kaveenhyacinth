@@ -45,7 +45,7 @@ I'm **Kaveen Hyacinth De Alwis**, a **Software Developer** ( last year undergrad
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering
 - 💬 Ask me about coding and personal branding, anytime, anywhere
 - 📫 Please email via mailme@kaveenhyacinth.com to reach me
-- ⚡ Spoiler: I'm a ~~coffee~~ ginger tea addict 
+- ⚡ Spoiler: I'm a ~~coffee~~ ginger tea lover 
 
 ### **Myself as a Package**  
 
