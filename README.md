@@ -36,24 +36,22 @@ Here are some ideas to get you started:
 <br />
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm **Kaveen Hyacinth De Alwis**, a **Software Developer** ( last year undergraduate 🌍 ), **IEEEian** and a **Writer** 🚀 from Colombo, Sri Lanka.
+I'm [Kaveen Hyacinth De Alwis](https://kaveenhyacinth.com), a **Software Engineer**, **Digital Creator** and a **Writer** 🚀 from Colombo, Sri Lanka.
 
 
 ### **A Deep Dive**
 
-- 🌱 I’m currently learning MERN-stack development
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering
+- 🌱 Specialized in JavaScript based technologies
+- 💼 Full-stack engineer and a MERN stack specialist
 - 💬 Ask me about coding and personal branding, anytime, anywhere
 - 📫 Please email via mailme@kaveenhyacinth.com to reach me
-- ⚡ Spoiler: I'm a ~~coffee~~ ginger tea lover 
+- ⚡ Spoiler: I'm a coffee addict. Wanna have a cup with me?
 
 ### **Myself as a Package**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
@@ -62,4 +60,4 @@ I'm **Kaveen Hyacinth De Alwis**, a **Software Developer** ( last year undergrad
 
 ![Kaveens's github stats](https://github-readme-stats.vercel.app/api?username=kaveenhyacinth&show_icons=true)
 
-💖 From [kaveenhyacinth](https://github.com/kaveenhyacinth)
+💖 From [kaveenhyacinth](https://kaveenhyacinth.com)
