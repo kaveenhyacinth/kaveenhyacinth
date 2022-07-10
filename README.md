@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="16px">
 I'm [Kaveen Hyacinth De Alwis](https://kaveenhyacinth.com), a **Software Engineer**, **Digital Creator** and a **Writer** 🚀 from Colombo, Sri Lanka.
 
 
