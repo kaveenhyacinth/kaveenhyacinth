@@ -50,22 +50,26 @@ I'm [Kaveen Hyacinth De Alwis](https://kaveenhyacinth.com), a **Software Enginee
 ### **Myself as a Package**  
 
 <p>
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+    <img height="50" src="https://avatars.githubusercontent.com/u/9950313?s=48&v=4">
+</p>
+<p>
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
     <img height="50" src="https://camo.githubusercontent.com/b0972dd62bbf6ee0e28ed0ebceb48427a481568caeeb639066b23c754f0c60e5/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667">
     <img height="50"         src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67">
-    <img height="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+    <img height="55" src="https://nuxt.com/assets/design-kit/logo/icon-green.svg">
 </p>
 <p>
-    <img height="50" src="https://avatars.githubusercontent.com/u/9950313?s=48&v=4">
     <img height="50" src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4">
     <img height="50" src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667">
     <img height="50" src="https://avatars.githubusercontent.com/u/20165699?s=48&v=4">
+</p>
+<p>
     <img height="50" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </p>
 <p>
     <img height="50" src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4">
