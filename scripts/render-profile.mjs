@@ -114,7 +114,8 @@ async function fontFace(fam, wt, it, text) {
 const fontCache = new Map();
 async function finalize(d, body) {
   const faces = await Promise.all(Object.entries(d.used).map(async ([k, text]) => {
-    const [fam, wt, it] = k.split("|");
+    const [fk, wt, it] = k.split("|");
+    const fam = FAM[fk];
     const key = k + "|" + [...new Set(text)].sort().join("");
     if (!fontCache.has(key)) fontCache.set(key, fontFace(fam, wt, it === "1", text));
     return fontCache.get(key);
